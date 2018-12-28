@@ -1,0 +1,15 @@
+{
+	"name": "YaserTrigger1",
+	"properties": {
+		"runtimeState": "Stopped",
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 1,
+				"startTime": "2018-12-14T22:37:00Z",
+				"timeZone": "UTC"
+			}
+		}
+	}
+}
