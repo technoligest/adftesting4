@@ -10,13 +10,6 @@
 				}
 			},
 			{
-				"name": "Wait1",
-				"type": "Wait",
-				"typeProperties": {
-					"waitTimeInSeconds": 1
-				}
-			},
-			{
 				"name": "Wait2",
 				"type": "Wait",
 				"typeProperties": {
@@ -291,6 +284,13 @@
 			},
 			{
 				"name": "Wait41",
+				"type": "Wait",
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			},
+			{
+				"name": "Wait42",
 				"type": "Wait",
 				"typeProperties": {
 					"waitTimeInSeconds": 1
